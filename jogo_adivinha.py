@@ -1,3 +1,6 @@
+#O projeto consiste em um jogo de advinhação,onde um número aleatório é gerado,o usuario começa com 1000 pontos,e a
+#diferença do número chutado para o número secreto é reduzida dessa pontuação a cada rodada
+
 import random
 
 print("**************************")
