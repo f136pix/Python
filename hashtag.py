@@ -1,5 +1,5 @@
 #A partir de uma frase recebida em forma de string,a função ira formatar o texto retirando
-#os espaços, colocando e letras maiusculas após os espaços  e adicionando uma hashtag no começo.
+#os espaços, colocando letras maiusculas após os espaços  e adicionando uma hashtag no começo.
 
 def hashtag(frase):
     frase = frase.strip()
